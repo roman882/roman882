@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am roman882 on github.
+  * I am roman882 (https://keybase.io/roman882) on keybase.
+  * I have a public key ASBWzh8FRo4DS80KOyrD-ocjbpfE5goabjPOkO_iFe5AXQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012056ce1f05468e034bcd0a3b2ac3fa87236e97c4e60a1a6e33ce90efe215ee405d0a",
+      "host": "keybase.io",
+      "kid": "012056ce1f05468e034bcd0a3b2ac3fa87236e97c4e60a1a6e33ce90efe215ee405d0a",
+      "uid": "6f564006b4043be927a77006236e8d19",
+      "username": "roman882"
+    },
+    "merkle_root": {
+      "ctime": 1568279629,
+      "hash": "fbe91e55f608df3ebf35e5445d7f4925b7b5996c30b4a0762dfb27137d982f8c59c7afba9768d13189186efaec0d785ec8f8bd22133ad6fa9781431f529056e9",
+      "hash_meta": "1d6a862ef3faf8c668fe4963ec7fa3bdadb4989231b41d78dc56de08530bc6ee",
+      "seqno": 6934045
+    },
+    "service": {
+      "entropy": "tp/Upvb1dumk2JPyX7MzvHkS",
+      "name": "github",
+      "username": "roman882"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568279640,
+  "expire_in": 504576000,
+  "prev": "70675d81ca48f8e8a3723896920360c7456c4db1529b667e02644b791b18b0da",
+  "seqno": 11,
+  "tag": "signature"
+}
+```
+
+with the key [ASBWzh8FRo4DS80KOyrD-ocjbpfE5goabjPOkO_iFe5AXQo](https://keybase.io/roman882), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVs4fBUaOA0vNCjsqw/qHI26XxOYKGm4zzpDv4hXuQF0Kp3BheWxvYWTESpcCC8QgcGddgcpI+OijcjiWkgNgx0VsTbFSm2Z+AmRLeRsYsNrEICWBSPzppbUlVWZ2eK6+yE7lXdZ2hBx1syAYRpWmiUawAgHCo3NpZ8RAkLg5jHapUG39lBN4KAWci+FnWfkFqtsNfJ/FnO4720J7Iu2UAii1Nj8tuVIeHdXz9jgTaMbHkR9oj76Ir03KBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGC7o8KZm2gixECrnZ/aulVinJyzAYYwUnXRAhY/J8sto3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/roman882
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id roman882
+```
